@@ -17,4 +17,5 @@ def hello_world():
 #     return app.send_static_file('../test.html')
 
 if __name__ == "__main__":
-    app.run()
+    # app.run()
+    app.run(host=’0.0.0.0’, port=80)
