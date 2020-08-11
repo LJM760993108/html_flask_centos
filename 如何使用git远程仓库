@@ -1,0 +1,5 @@
+1. 先在github 上创建一个 仓库, 最好配置为免密登录。
+2. 本地选择一个目录 git clone url
+3. 关联远程仓库，并将代码 git push 到仓库
+4. 在centos 服务器上  也选择一个目录 git clone url
+5. 关联远程仓库
